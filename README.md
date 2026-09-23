@@ -11,4 +11,3 @@ Script interactivo en Python diseñado para analizar cadenas de texto ingresadas
 
 ## Requisitos
 
-* Python 3.x
