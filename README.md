@@ -9,5 +9,4 @@ Script interactivo en Python diseñado para analizar cadenas de texto ingresadas
 * Uso de métodos nativos de cadenas (`.isupper()` y `.isalpha()`) para la verificación carácter por carácter.
 * Interrupción de ciclo optimizada (`break`) al detectar la primera inconsistencia.
 
-## Requisitos
 
