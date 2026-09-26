@@ -1,4 +1,4 @@
-# Validador_Mayusculas
+# Validador_Mayuscu
 
 Script interactivo en Python diseñado para analizar cadenas de texto ingresadas por el usuario y determinar si están compuestas únicamente por letras mayúsculas.
 
