@@ -6,4 +6,4 @@ Script interactivo en Python diseñado para analizar cadenas de texto ingresadas
 
 * Validaciones mediante control de flujo (`for` y condicionales `if-else`).
 * Manejo de casos de borde como entradas vacías.
-* Uso de métodos nativos de cadenas (`.isupper()` y `.isalpha()`) p
+* Uso de métodos nativos de cadenas 
