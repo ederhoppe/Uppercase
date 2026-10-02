@@ -5,4 +5,4 @@ Script interactivo en Python diseñado para analizar cadenas de texto ingresadas
 ## Características
 
 * Validaciones mediante control de flujo (`for` y condicionales `if-else`).
-* Manejo de casos de borde como 
+* Manejo de casos de b
