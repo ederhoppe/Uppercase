@@ -1,3 +1,3 @@
 ## Descripción
 
-Script  en Python diseñado para analizar cadenas de  
+Script  en Python diseñado para analizar cadenas 
