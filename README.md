@@ -1,3 +1,3 @@
 ## Descripción
 
-Script  en Python diseñ
+Script  en Python 
