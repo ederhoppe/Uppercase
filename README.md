@@ -1,3 +1,3 @@
 ## Descripción
 
-Script  
+Sc
