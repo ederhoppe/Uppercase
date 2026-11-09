@@ -1,2 +1,2 @@
 ## Descripción
-hello kitty
+hello
