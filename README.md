@@ -7,3 +7,4 @@ investigar métodos para descartar fallas
 xd
 list comp
 kk
+lk
