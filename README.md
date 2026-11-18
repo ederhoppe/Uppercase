@@ -6,3 +6,4 @@ anotar observaciones del Sentra
 investigar métodos para descartar fallas 
 xd
 list comp
+kk
